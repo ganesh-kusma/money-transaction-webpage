@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    width: auto;
+    height: 84px;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-right: 0;
+}
+
+.nav-link {
+    margin-left: 25px;
+}
+
+.gk {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    margin-left: 298px;
+    margin-bottom: -21px;
+    margin-top: -21px;
+}
+
+.hdbt {
+    border-color: #cbd2cf;
+}
+.cnt1{
+    margin-top: 255px;
+}
